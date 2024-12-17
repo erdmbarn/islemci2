@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/erdmb/islemci_v4/islemci_v4.srcs/sources_1/new/anabellek.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module anabellek
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/erdmb/islemci_v4/islemci_v4.srcs/sources_1/new/islemci_ous.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module islemci_ous
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/erdmb/islemci_v4/islemci_v4.srcs/sim_1/new/tb_islemci_ous.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_islemci_ous

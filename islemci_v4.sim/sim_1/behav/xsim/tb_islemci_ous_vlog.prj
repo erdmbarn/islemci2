@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../islemci_v4.srcs/sources_1/new/anabellek.v" \
+"../../../../islemci_v4.srcs/sources_1/new/islemci_ous.v" \
+"../../../../islemci_v4.srcs/sim_1/new/tb_islemci_ous.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

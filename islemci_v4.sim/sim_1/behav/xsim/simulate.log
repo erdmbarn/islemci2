@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+work_yazmaccöz
+[ERR] ks yazmac 17 expected 10, actual x
+[ERR] ks yazmac 18 expected 15, actual x
+[ERR] ks yazmac 19 expected 25, actual x
+work_yazmaccöz
+[TEST] Mem addr: 0xxxxxxxxx
+[ERR] DS: x5 yazmacinin degeri: 5, Bellek adresi: 0x80000030, degeri: 0
+[ERR] DS: x6 yazmacinin degeri: 10, Bellek adresi: 0x80000034, degeri: 0
+[ERR] DS: x7 yazmacinin degeri: 15, Bellek adresi: 0x80000038, degeri: 0
+[ERR] DS: x8 yazmacinin degeri: 12, Bellek adresi: 0x8000003c, degeri: 0
+[ERR] DS: x9 yazmacinin degeri: 11, Bellek adresi: 0x80000040, degeri: 0
+$finish called at time : 457 ns : File "C:/Users/erdmb/islemci_v4/islemci_v4.srcs/sim_1/new/tb_islemci_ous.v" Line 121
